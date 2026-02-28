@@ -80,7 +80,6 @@ I'm an FPGA Design Engineer , focused on building high-performance **AI inferenc
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umerjack&theme=dark&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umerjack&layout=compact&theme=dark&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117&langs_count=6)
 
 </div>
 
