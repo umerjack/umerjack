@@ -16,10 +16,10 @@
 
 I'm an FPGA Design Engineer , focused on building high-performance **AI inference accelerators** in RTL. My work sits at the intersection of hardware architecture and machine learning — designing the silicon-level engines that run AI fast and efficiently.
 
-- 🔭 Currently building a **Systolic Array AI Accelerator ouput stationary** with multi-precision support and AXI4 PCIE integration 
+- 🔭 Currently building a **Systolic Array AI Accelerator output stationary** with multi-precision support and AXI4 PCIe integration
 - 🧠 Deep interest in **AI/ML hardware acceleration**, processor microarchitecture, and FPGA-based compute
 - 🤝 Open to **collaboration and learning** — especially in accelerator design, RISC-V, and HLS flows
-- 🎓 B.E. Electrical Engineering — **NUST **, Pakistan
+- 🎓 B.E. Electrical Engineering — **NUST**, Pakistan
 
 ---
 
@@ -39,7 +39,7 @@ I'm an FPGA Design Engineer , focused on building high-performance **AI inferenc
 
 ## 🚀 Featured Projects
 
-### 🔴 AI Inference Accelerator — Systolic Array Engine 
+### 🔴 AI Inference Accelerator — Systolic Array Engine
 > RTL design of a **Dot Product Engine (DPE)** for AI inference workloads. Supports INT2/INT4/INT8/INT16/FP16/BF16 with real-time conversion to FP32 (IEEE-754). Custom systolic array architecture for tile-based matrix multiplication. AXI4/AXI-Lite interfaces + PCILeech DMA integration. Python golden-model co-simulation for verification.
 
 ---
@@ -78,9 +78,9 @@ I'm an FPGA Design Engineer , focused on building high-performance **AI inferenc
 
 <div align="center">
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umerjack&show_icons=true&theme=dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=umerjack&theme=dark&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umerjack&layout=compact&theme=dark&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umerjack&layout=compact&theme=dark&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117&langs_count=6)
 
 </div>
 
