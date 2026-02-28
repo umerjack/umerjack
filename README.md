@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I'm an FPGA Design Engineer at **intelliFPGA (USA-based, Remote)**, focused on building high-performance **AI inference accelerators** in RTL. My work sits at the intersection of hardware architecture and machine learning — designing the silicon-level engines that run AI fast and efficiently.
+I'm an FPGA Design Engineer , focused on building high-performance **AI inference accelerators** in RTL. My work sits at the intersection of hardware architecture and machine learning — designing the silicon-level engines that run AI fast and efficiently.
 
-- 🔭 Currently building a **Systolic Array AI Accelerator** with multi-precision support (INT2 → FP32) and AXI4 integration
+- 🔭 Currently building a **Systolic Array AI Accelerator ouput stationary** with multi-precision support and AXI4 PCIE integration 
 - 🧠 Deep interest in **AI/ML hardware acceleration**, processor microarchitecture, and FPGA-based compute
 - 🤝 Open to **collaboration and learning** — especially in accelerator design, RISC-V, and HLS flows
-- 🎓 B.E. Electrical Engineering — **NUST (CEME)**, Rawalpindi, Pakistan
+- 🎓 B.E. Electrical Engineering — **NUST **, Pakistan
 
 ---
 
@@ -39,15 +39,8 @@ I'm an FPGA Design Engineer at **intelliFPGA (USA-based, Remote)**, focused on b
 
 ## 🚀 Featured Projects
 
-### 🔴 AI Inference Accelerator — Systolic Array Engine *(Active @ intelliFPGA)*
-> RTL design of a **Dot Product Engine (DPE)** for AI inference workloads. Supports INT2/INT4/INT8/INT16/FP16/BF16 with real-time conversion to FP32 (IEEE-754). Custom systolic array for tile-based matrix multiplication. AXI4/AXI-Lite interfaces + PCILeech DMA integration. Python golden-model co-simulation for verification.
-
----
-
-### 🟠 RISC-V Pipelined MCU — Triangulum
-> 5-stage pipelined 32-bit RISC-V microcontroller (IF/ID/EX/MEM/WB). Built with golden reference modules and validated for FPGA deployment. Aimed at practical, production-ready RTL skills.
-
-🔗 [View Repository](https://github.com/umerjack/hades-v-riscv-mcu-triangulum)
+### 🔴 AI Inference Accelerator — Systolic Array Engine 
+> RTL design of a **Dot Product Engine (DPE)** for AI inference workloads. Supports INT2/INT4/INT8/INT16/FP16/BF16 with real-time conversion to FP32 (IEEE-754). Custom systolic array architecture for tile-based matrix multiplication. AXI4/AXI-Lite interfaces + PCILeech DMA integration. Python golden-model co-simulation for verification.
 
 ---
 
